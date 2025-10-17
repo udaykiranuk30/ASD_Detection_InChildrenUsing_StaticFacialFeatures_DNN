@@ -1,0 +1,15 @@
+to run jupyter notebook open anaconda prompt and run the following commands
+-------------------------------------------------------------------------------
+cd C:\Users\Udaykiran\OneDrive\Desktop\project\Autism_Update1
+conda activate project
+jupyter notebook
+
+
+to run flask app open anaconda prompt and run the following commands
+-------------------------------------------------------------------------------
+cd C:\Users\Udaykiran\OneDrive\Desktop\project\Autism_Update1\AutismDetectionFlaskApp_EfficientNet
+conda activate project
+python app.py
+
+
+open browser and run  the following url (127.0.0.1:5000)
