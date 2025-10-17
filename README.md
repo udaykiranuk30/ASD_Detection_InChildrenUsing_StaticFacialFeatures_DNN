@@ -29,7 +29,7 @@ will be fine-tuned and optimized for high precision, recall, and overall diagnos
 objective, and efficient method for early autism diagnosis in children. It can be integrated into 
 healthcare settings and assist clinicians in their diagnostic process.
 
-Libraries / Modules
+### Libraries / Modules
 NumPy
 Pandas
 Matplotlib
@@ -44,7 +44,7 @@ Glob
 Pprint
 Pickle
 
-Machine Learning / Deep Learning Models
+### Machine Learning / Deep Learning Models
 DNN (Deep Neural Network)
 R-CNN (Region-based Convolutional Neural Network)
 ResNet (Residual Network)
