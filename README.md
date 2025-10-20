@@ -61,6 +61,8 @@ EfficientB0
 <img width="531" height="238" alt="image" src="https://github.com/user-attachments/assets/527926de-f384-443d-b9dd-7c2cd4b4fc34" />
 
 
+This Project was collaboratively done by me, Bharath and Kesav
+
 
 
 
